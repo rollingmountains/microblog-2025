@@ -7,6 +7,7 @@ wheels/
 *.egg-info
 .flaskenv
 .python-version
+.vscode
 
 # Virtual environments
 .venv
