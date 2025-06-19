@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "djlint>=1.36.4",
     "flask>=3.1.1",
+    "flask-wtf>=1.2.2",
     "livereload>=2.7.1",
     "python-dotenv>=1.1.0",
 ]
